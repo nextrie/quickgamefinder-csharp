@@ -1,1 +1,1 @@
-quickgamefinderC
+QuickGameFinder created in C#
