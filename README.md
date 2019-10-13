@@ -11,3 +11,5 @@ Dans notre cas le serveur aura le contrôle des connexions, inscriptions, la ges
 Ce projet fût ma première expérience avec la notion de programmation orientée réseau. J'en ai beaucoup appris et ce fût très enrichissant pour les projets qui suivront.
 
 Il faut par conséquent noter que l'optimisation n'était clairement pas au rendez-vous dans ce projet.
+
+![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2019/04/eso1644bsmall.jpg)
