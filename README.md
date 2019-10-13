@@ -12,4 +12,11 @@ Ce projet fût ma première expérience avec la notion de programmation orienté
 
 Il faut par conséquent noter que l'optimisation n'était clairement pas au rendez-vous dans ce projet.
 
-![alt text](https://d1fmx1rbmqrxrr.cloudfront.net/cnet/i/edit/2019/04/eso1644bsmall.jpg)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/chargement.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/CONNEXION.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/PREMIEREPAGEVIDE.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/CREATEGRP.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/PREMIEREPAGEPLEINE.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Chat.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/MISSINGAME2.png)
+![alt text](http://alexandregerez.com/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Serv.png)
