@@ -12,11 +12,11 @@ Ce projet fût ma première expérience avec la notion de programmation orienté
 
 Il faut par conséquent noter que l'optimisation n'était clairement pas au rendez-vous dans ce projet.
 
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/chargement.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/CONNEXION.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/PREMIEREPAGEVIDE.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/CREATEGRP.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/PREMIEREPAGEPLEINE.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Chat.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/MISSINGAME2.png)
-![alt text](http://alexandregerez.livehost.fr/imgs/QUICKGAMEFINDER/QGFPRESENTATION/Serv.png)
+![alt text](https://ibb.co/xgJDV5t][img]https://i.ibb.co/R6z9LHk/chargement.png)
+![alt text](https://ibb.co/j4hcRpF][img]https://i.ibb.co/SvNhrLp/CONNEXION.png)
+![alt text](https://ibb.co/5rscTM7][img]https://i.ibb.co/n7QkrgW/PREMIEREPAGEVIDE.png)
+![alt text](https://ibb.co/XS3vkh3][img]https://i.ibb.co/0hFdVgF/CREATEGRP.png)
+![alt text](https://ibb.co/R9tR7ph][img]https://i.ibb.co/vHf0Dxs/PREMIEREPAGEPLEINE.png)
+![alt text](https://ibb.co/4KCWMt2][img]https://i.ibb.co/Cm4Bv86/Chat.png)
+![alt text](https://imgbb.com/][img]https://i.ibb.co/f2G9vtt/MISSINGAME2.png)
+![alt text](https://ibb.co/3d4qvrr][img]https://i.ibb.co/mTbw0DD/Serv.png)
