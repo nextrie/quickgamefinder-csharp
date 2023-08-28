@@ -25,7 +25,7 @@ namespace WOA_DEVServer.Core
                 client.Timeout = 10000;
                 client.DeliveryMethod = SmtpDeliveryMethod.Network;
                 client.UseDefaultCredentials = false;
-                client.Credentials = new System.Net.NetworkCredential("nextriesh@gmail.com", "Yujilaosyalere94");
+                client.Credentials = new System.Net.NetworkCredential("", "");
                 string subject = "";
                 if(m == MailType.MISSINGGAME)
                 {
